@@ -92,7 +92,7 @@ export function Dashboard() {
         {/* Header */}
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           <div>
-            <h1 className="text-3xl font-bold tracking-tight text-balance text-blue-600">Monitor de Dispositivos GPS</h1>
+            <h1 className="text-3xl font-bold tracking-tight text-balance">Monitor de Dispositivos GPS</h1>
             <p className="text-muted-foreground">Monitoreo en tiempo real de ubicación y niveles de ruido</p>
           </div>
           <Badge variant="outline" className="w-fit">
